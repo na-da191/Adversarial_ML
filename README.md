@@ -11,6 +11,8 @@ The mission we have been given is part of understanding attacks and defense adve
 For the different implementation in this section we used the MNIST dataset.
 After training for about 30000 epochs. Below I’m showing
 the generated images as the network was training, every 200 epochs
+
+
 ![Alt Text](https://github.com/na-da191/Adversarial_ML/blob/main/Defence/gan.gif)
 
 
@@ -24,6 +26,8 @@ posed convolution (Fractionally-strided convolution or Deconvolution) technique 
 image size.
 After training for about 4000 epochs. Below I’m showing the generated images as the network was training,
 every 50 epochs.
+
+
 ![Alt Text](https://github.com/na-da191/Adversarial_ML/blob/main/Defence/dcgan.gif)
 
 
@@ -36,4 +40,6 @@ every 50 epochs.
 In WGAN, the discriminator does not classify the input as real or fake instead, it outputs a number.
 After training for about 4000 epochs. Below I’m showing the generated images as the network
 was training, every 50 epochs.
+
+
 ![Alt Text](https://github.com/na-da191/Adversarial_ML/blob/main/Defence/wdcgan.gif)
