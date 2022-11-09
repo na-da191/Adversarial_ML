@@ -42,4 +42,4 @@ After training for about 4000 epochs. Below I’m showing the generated images a
 was training, every 50 epochs.
 
 
-![Alt Text](https://github.com/na-da191/Adversarial_ML/blob/main/Defence/wdcgan.gif)
+![Alt Text](https://github.com/na-da191/Adversarial_ML/blob/main/Defence/wgan.gif)
